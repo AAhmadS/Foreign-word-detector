@@ -1,5 +1,6 @@
 # Foreign-word detector
-NLP course, CE Dept. Sharif University of Technology<br/>
+## NLP course<br/> Sharif University of Technology <br/> CE Dept. <br/> Dr. E. Asgari
+
 **People involved**:<br/>
 >Amirahmad Shafiee<br/>
 >Neda Fallah<br/>

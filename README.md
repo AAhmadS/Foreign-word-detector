@@ -15,3 +15,4 @@
 * Lemmatization
 * Text preprocessing
 * Language borrowing
+* Indirect translating
